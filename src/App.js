@@ -1,6 +1,7 @@
+import RainContainer from "./component/RainContainer";
 
 function App() {
-  return <div className="text-3xl font-bold underline">App.js page</div>;
+  return <RainContainer />;
 }
 
 export default App;
